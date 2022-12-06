@@ -1,0 +1,18 @@
+.footer__link-nav {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer__link-nav:hover {
+  color: #aaa;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 320px) {
+  .footer__link-nav {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+  }
+}

@@ -1,0 +1,9 @@
+.cover {
+    position: relative;
+  }
+
+  .cover:hover {
+    opacity: 0.3;
+  }
+
+  
