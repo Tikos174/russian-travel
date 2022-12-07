@@ -5,6 +5,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  position: relative;
 }
 
 .cover:hover {
@@ -13,21 +14,21 @@
 
  @media screen and (max-width: 1024px) {
   .cover {
-    max-width: 100%;
+    max-width: 1024px;
     min-height: 640px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .cover {
-    max-width: 100%;
+    max-width: 768px;
     min-height: 480px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .cover {
-    max-width: 100%;
+    max-width: 320px;
     min-height: 200px;
   }
 } 

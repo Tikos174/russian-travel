@@ -11,7 +11,7 @@
 @import url(../blocks/header/__lang-links/__lang-links.css);
 @import url(../blocks/header/__block/header__block.css);
 @import url(../blocks/header/__block/_none/header__block_en.css);
-@import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__lang-link/header__lang-link.css); 
 
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);

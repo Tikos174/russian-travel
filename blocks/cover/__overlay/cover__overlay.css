@@ -1,5 +1,5 @@
 .cover__overlay {
-  min-width: 1184px;
+  width: 100%;
   min-height: 740px;
   position: absolute;
   background-image: url(../../../image/cover-trains.jpg);
@@ -9,21 +9,21 @@
 
 @media screen and (max-width: 1024px) {
   .cover__overlay {
-    min-width: 1024px;
+    width: 100%;
     min-height: 640px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .cover__overlay {
-    min-width: 768px;
+    width: 768px;
     min-height: 480px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .cover__overlay {
-    min-width: 320px;
+    width: 320px;
     min-height: 200px;
   }
 }
