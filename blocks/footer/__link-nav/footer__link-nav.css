@@ -8,7 +8,7 @@
   text-decoration: none;
 }
 
-/*@media screen and (max-width: 320px) {
+@media screen and (max-width: 320px) {
   .footer__link-nav {
     font-style: normal;
     font-weight: 400;

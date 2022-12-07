@@ -1,5 +1,5 @@
 .places-list {
-  margin: 0;
+  margin: 0 0 0 25px;
   padding: 0;
 }
 
@@ -8,5 +8,6 @@
     display: grid;
     grid-template-columns: 320px;
     gap: 30px;
+    margin: 0;
   }
 }

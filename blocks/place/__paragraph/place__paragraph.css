@@ -1,12 +1,12 @@
 .place__paragraph {
   max-width: 481px;
   font-weight: 400;
-  font-size: 17px;
+  font-size: 18px;
   line-height: 29px;
   margin: 0;
 }
 
-/*@media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .place__paragraph {
     font-style: normal;
     font-weight: 400;
