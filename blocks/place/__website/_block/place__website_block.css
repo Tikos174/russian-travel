@@ -2,7 +2,7 @@
   margin: 107px 0 0 0;
 }
 
-@media screen and (max-width: 1024px) {
+/*@media screen and (max-width: 1024px) {
   .place__website_block {
     margin: 105px 0 0 0;
   }

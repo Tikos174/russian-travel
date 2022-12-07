@@ -1,9 +1,34 @@
 .cover {
-    position: relative;
-  }
+  position: relative;
+  width: 1184px;
+  min-height: 740px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
 
-  .cover:hover {
-    opacity: 0.3;
-  }
+.cover:hover {
+  opacity: 0.3;
+}
 
-  
+@media screen and (max-width: 1024px) {
+  .cover {
+    width: 1024px;
+    min-height: 640px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover {
+    width: 768px;
+    min-height: 480px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover {
+    width: 320px;
+    min-height: 200px;
+  }
+}
