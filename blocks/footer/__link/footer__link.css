@@ -3,6 +3,12 @@
   padding: 0;
 }
 
+@media screen and (max-width: 768px) {
+  .footer__link {
+    margin: 0 22px 0 0;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .footer__link {
     margin: 0 0 32px 0;

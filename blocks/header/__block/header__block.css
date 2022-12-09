@@ -10,7 +10,7 @@
   opacity: 0.8;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 440px) {
   .header__block {
     font-size: 7vw;
   }

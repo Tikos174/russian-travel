@@ -7,9 +7,9 @@
   padding: 0;
 }
 
-/* .place__paragraph:last-child{
+.place__paragraph:last-child{
   margin: 0;
-} */
+}
 
 @media screen and (max-width: 768px) {
   .place__paragraph {
@@ -23,6 +23,10 @@
   .place__paragraph {
     max-width: 288px;
     margin: 0 0 23px 17px;
+  }
+  
+  .place__paragraph:last-child{
+    margin: 0 0 26px 17px;
   }
   
 }

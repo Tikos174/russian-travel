@@ -1,7 +1,7 @@
 .cover {
   max-width: 100%;
   min-height: 740px;
-  background-image: url(../../../image/cover-trains.jpg);
+  background-image: url(../../image/cover-trains.jpg);
   background-repeat: round;
   display: flex;
   flex-direction: column;
