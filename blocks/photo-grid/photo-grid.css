@@ -2,7 +2,7 @@
   max-width: 1184px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  justify-content: center; 
+  justify-content: center;
   gap: 16px;
   margin: 92px 0 92px 0;
 }
