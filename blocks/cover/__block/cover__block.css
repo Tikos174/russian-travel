@@ -1,0 +1,13 @@
+.cover__block {
+  background: #2A2C2F;
+  opacity: 0.3;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.cover__block:hover {
+  opacity: 0.8;
+}

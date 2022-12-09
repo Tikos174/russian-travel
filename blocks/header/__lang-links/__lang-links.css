@@ -5,17 +5,9 @@
   gap: 18px;
 }
 
-@media screen and (max-width: 1024px) {
-  .header__lang-links {
-    margin: 0;
-  }
-}
-
 @media screen and (max-width: 768px) {
   .header__lang-links {
     margin: 0 25px 0 0;
-    padding: 0;
-    display: flex;
     gap: 23px;
   }
 }

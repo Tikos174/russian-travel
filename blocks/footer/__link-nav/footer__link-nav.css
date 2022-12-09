@@ -4,8 +4,7 @@
 }
 
 .footer__link-nav:hover {
-  color: #aaa;
-  text-decoration: none;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 320px) {

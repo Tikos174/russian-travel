@@ -11,10 +11,6 @@
 
 @media screen and (max-width: 320px) {
   .intro__list {
-    font-style: normal;
-    font-weight: 700;
-    font-size: 12px;
-    line-height: 18px;
     max-width: 288px;
   }
 }
