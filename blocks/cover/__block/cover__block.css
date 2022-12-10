@@ -1,13 +1,17 @@
 .cover__block {
-  background: #2A2C2F;
-  opacity: 0.3;
+  background: rgba(42, 44, 47, 0.3);
   position: absolute;
   top: 0;
   left: 0;
   bottom: 0;
   right: 0;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .cover__block:hover {
-  opacity: 0.8;
-}
+  background: rgba(42, 44, 47, 0.8);
+} 

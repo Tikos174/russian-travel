@@ -11,7 +11,8 @@
 
 @media screen and (max-width: 768px) {
   .intro {
-    margin: 0 0 0 25px;
+    max-width: 720px;
+    margin: 0 auto;
   }
 }
 
