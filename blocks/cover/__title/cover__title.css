@@ -10,7 +10,7 @@
 
 @media screen and (max-width: 530px) {
   .cover__title {
-    font-size: calc(100vw / 11);
+    font-size: calc(100vw / 8);
   }
 } 
 
