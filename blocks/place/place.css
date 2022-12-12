@@ -21,25 +21,14 @@
   .place {
     grid-template-columns: minmax(auto, 340px) minmax(auto, 352px);
     gap: 49px 28px;
-    margin: 0 0 65px 0;
+    margin: 0 0 64px 0;
   }
-
-  .place:nth-child(4) {
-    margin: 0 0 45px 0;
-  }
-
 }
 
-@media screen and (max-width: 440px) {
+@media screen and (max-width: 530px) {
   .place {
     grid-template-columns: minmax(auto, 320px);
-    gap: 32px;
-    margin: 0 0 50px 0;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .place {
-    margin: 0 0 40px 0;
+    gap: 31px;
+    margin: 0 0 41px 0;
   }
 }

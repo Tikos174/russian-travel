@@ -8,11 +8,12 @@
   max-width: 560px;
 }
 
-@media screen and (max-width: 440px) {
+@media screen and (max-width: 530px) {
   .cover__title {
-    font-size: 12vw;
+    font-size: calc(100vw / 11);
   }
-}
+} 
+
 
 @media screen and (max-width: 320px) {
   .cover__title {

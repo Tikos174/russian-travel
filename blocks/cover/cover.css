@@ -4,11 +4,6 @@
   background-image: url("../../image/cover-train.jpg");
   background-size: contain;
   background-repeat: no-repeat;
-  display: flex;
-  flex-direction: column;
-  align-content: center;
-  justify-content: center;
-  align-items: center;
   position: relative;
 }
 
